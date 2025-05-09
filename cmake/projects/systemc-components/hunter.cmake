@@ -13,7 +13,7 @@ hunter_add_version(
     PACKAGE_NAME systemc-components
     VERSION "2025.03.hunter"
     URL "https://github.com/Risto97/SystemC-Components/archive/refs/tags/2025.03.hunter.tar.gz"
-    SHA1 924f4c82f59adde8332279652ea0273f92e10a0f
+    SHA1 63e531431ff3d3932276f310afe801a66443b094
 )
 
 hunter_cmake_args(
