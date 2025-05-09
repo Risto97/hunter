@@ -19,7 +19,7 @@ hunter_add_version(
 hunter_cmake_args(
     systemc-components
     CMAKE_ARGS
-        ENABLE_HUNTER=OFF
+        ENABLE_HUNTER=ON
         BUILD_SCC_LIB_ONLY=ON
         BUILD_SCC_DOCUMENTATION=OFF
 )
